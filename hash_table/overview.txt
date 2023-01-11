@@ -1,0 +1,46 @@
+What is Hash Table?
+
+hash tables DS stores elements in key value pairs. 
+key= unique integer for indexing values. hashing function uses this key to generate the index.
+value = data that are associated with keys.
+
+
+Applications of Hash Table
+
+1. constant time lookup and insertion is required
+2. cryptographic applications
+3. indexing data is required
+
+NB: This majorly  used in databases
+
+Hash collision
+This  is the Limitations of Hash tables. This is when the hashing function generates the same index for multiple key.
+
+solutions
+    1. Chaining
+    2. Open Addressing : Linear, Quadratic and Double Hashing
+
+Hashing functions
+    1. Division Method
+    2. Multiplication Method
+    3. Universal Hashing
+
+
+link for more details: https://www.programiz.com/dsa/hash-table
+
+
+comparism: Arrays and Hash tables time complexity
+                Arrays  Hash Tables
+search           O(n)    O(1)
+lookup           0(1)    O(1)
+push             0(1)    O(1)
+insert           O(n)    O(1)
+delete           O(n)    O(1)
+
+
+NB: 
+    1. These are  majorly  used in databases
+    2. These are used where CRUD operations is needed.
+
+Disadvantages of Hash_tables:
+    They are unordered.

@@ -1,0 +1,64 @@
+
+
+
+# advanced algorithm githubs
+javascript  https://github.com/theja-m/Data-Structures-and-Algorithms 
+python      https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python
+c/c++       https://github.com/shree1999/Data-Structures-and-Algorithms
+GO          https://github.com/punitpandey/DS-Algo
+swift       https://github.com/preetamjadakar/datastructures-swift
+JAVA        https://github.com/nimrod46/Data-Structures-and-Algorithms and https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA
+C#          https://github.com/anirban-s/data-structures-and-algorithms
+Typescript  https://github.com/CoffeelessProgrammer/Data-Structures-and-Algorithms-TS
+Kotlin      https://github.com/abdurakhmonoff/data-structures-and-algorithms-kotlin
+Perl        https://github.com/KrisMatrix/DS_Algo
+scala       https://github.com/beneyal/ztm-dsa-scala
+
+
+
+# code instructor
+# Replit.it
+
+
+DS
+
+This is a collection of values and their relationships to one another.
+
+1. Arrays
+2. stacks
+3. queues
+4. LinkedList
+5. Trees
+6. Tries
+7. Graphs
+8. Hash Tables
+
+
+Algorithms
+
+1. Sorting
+2. Dynamic programming
+3. BFS + DFS ( searching )
+4. Recursion
+
+
+Good code
+
+1. Readability
+2. Time complexity -- speed
+3. space complexity -- memory
+
+what Big FANG looks for
+    Analytical skills 
+    Communication
+    Technical knowledge
+    coding skills
+
+
+#
+
+Data structure + algorithms = Programs
+
+# 
+python performance counter
+time.perf_counter()

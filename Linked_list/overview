@@ -1,0 +1,29 @@
+linked list
+
+A linked list is a linear data structure that includes a series of connected nodes. Here, each node stores the data and the address of the next node
+
+You have to start somewhere, so we give the address of the first node a special name called HEAD. Also, the last node in the linked list can be identified because its next portion points to NULL.
+
+
+ # visual algorithm
+    - Provides a GUI for understanding linkedlist.
+
+Advantage of a linkedlist.
+    - data is arranged when compared to hash table
+    - insertion is better than that of an array
+
+Time complexity
+    prepend O(1)
+    append  O(1)
+    lookup  O(1)
+    insert  O(n)
+    delete  O(n)
+
+Pointer
+    A reference to an object in memory.
+
+    a = 'bay'
+    b = a # b is a pointer to memory space of a
+
+
+
